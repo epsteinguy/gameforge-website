@@ -84,7 +84,7 @@ function Hero() {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
           <a
-            href="https://hackclub.slack.com/channels/gameforge"
+            href="https://amrit.fillout.com/gameforge-rsvp"
             target="_blank"
             rel="noopener noreferrer"
             className="cta-btn inline-block px-10 py-4 rounded-sm font-[Cinzel] font-bold text-rpg-dark text-lg tracking-wider"
