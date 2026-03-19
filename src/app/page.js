@@ -475,6 +475,7 @@ function Footer() {
         >
           Join #gameforge on Slack &rarr;
         </a>
+        < - All details are subject to change without any notification/alert.</p>
       </div>
     </footer>
   );
