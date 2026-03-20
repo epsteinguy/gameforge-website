@@ -305,7 +305,7 @@ function EarningGold() {
 
 const shopItems = [
   { name: "Steam Grant", price: "50", category: "Digital" },
-  { name: "Steam License", price: "00", category: "Digital" },
+  { name: "Steam License", price: "500", category: "Digital" },
   { name: "Headphones", price: "275", category: "Audio" },
   { name: "Nintendo Switch", price: "2,000", category: "Console" },
   { name: "ROG Ally", price: "3,000", category: "Windows Handheld" },
